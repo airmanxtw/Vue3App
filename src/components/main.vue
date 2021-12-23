@@ -12,4 +12,8 @@ const counter = ref(0);
 let add = () => {
   counter.value+=2;
 };
+let add2=() =>{
+  counter.value+=3;
+  //test 
+}
 </script>
