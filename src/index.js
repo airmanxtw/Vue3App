@@ -5,5 +5,6 @@ import Main from "./components/main";
 // 7777
 // 33
 //99
+// 100000
 createApp(Main).mount("#app");
 
