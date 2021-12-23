@@ -17,4 +17,7 @@ let add2=() =>{
   counter.value+=3;
   //test 
 }
+let add3()=>{
+  counter.value+=4;
+}
 </script>
