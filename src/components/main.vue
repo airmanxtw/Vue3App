@@ -10,6 +10,6 @@ import { ref } from "vue";
 import myTitle from "./myTitle.vue";
 const counter = ref(0);
 let add = () => {
-  counter.value++;
+  counter.value+=2;
 };
 </script>
